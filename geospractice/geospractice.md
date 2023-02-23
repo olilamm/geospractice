@@ -1,0 +1,4 @@
+ 
+# geospractice module
+
+::: geospractice.geospractice
